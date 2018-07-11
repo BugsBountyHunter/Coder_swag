@@ -10,3 +10,7 @@ import Foundation
 
 //identifier
 let REUSE_CELL_IDENTIFIR = "categoryCell"
+let PRODUCTS_CELL = "productsCell"
+
+//segue
+let TO_PRODUCTS = "toProducts"
